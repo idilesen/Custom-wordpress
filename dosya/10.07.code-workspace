@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "10.07",
+			"path": "."
+		},
+		{
+			"name": "blog-site-template-master",
+			"path": "../../Downloads/blog-site-template-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "10.07"
+	}
+}
